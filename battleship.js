@@ -8,6 +8,7 @@
 // var location1 = 3;
 // var location2 = 4;
 // var location3 = 5;
+// var location4 = 6;
 // var guess;
 // var hits = 0;
 // var guesses = 0;
