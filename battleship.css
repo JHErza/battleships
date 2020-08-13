@@ -20,9 +20,23 @@
     height: 863px;
     margin: auto;
     position: absolute;
-	top: 0px;
+    padding:15px;
+  bottom: 0px;
+  right:0px;
 	left: 0px;
 	color: rgb(83, 175, 19);
 
     }
-  
+/*   
+    body{
+      background-image: url('http://www.modsworldofwarships.com/wp-content/uploads/2015/09/Wolf-flag-pack.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    color: white;
+    } */
+
+    input{
+      background-color:rgb(152, 207, 113);
+      border-color:rbg(83,175,19);
+    }

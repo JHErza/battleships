@@ -1,6 +1,6 @@
 
 
-// Math.floor(Math.random() * 6);     // returns a random integer from 0 to 21
+// Math.floor(Math.random() * 5) + 1);     // returns a random integer from 0 to 21
 
 
 
@@ -134,3 +134,7 @@ while (isSunk == false){
     var stats = "You took " + guesses + " guesses to sink the battleship, " +
     "which means your shooting accuracy was " + (1/guesses); 
     alert(stats);
+
+
+
+    
